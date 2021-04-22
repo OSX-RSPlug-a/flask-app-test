@@ -1,0 +1,6 @@
+Flask
+Flask-Bootstrap4
+flask-sqlalchemy
+Flask-SocketIO
+Flask-WTF
+sqlalchemy
